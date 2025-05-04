@@ -5,3 +5,4 @@ console.log("commit-2")
 console.log("commit-3")
 
 console.log("test")
+console.log("version-1.0.2-1")
